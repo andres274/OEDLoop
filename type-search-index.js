@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"DiamondLoop"},{"p":"<Unnamed>","l":"EvenLoop"},{"p":"<Unnamed>","l":"OddLoop"},{"p":"<Unnamed>","l":"OEDLoop"}]
